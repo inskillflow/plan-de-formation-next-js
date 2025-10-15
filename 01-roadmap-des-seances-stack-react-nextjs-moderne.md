@@ -1,8 +1,7 @@
-```markdown
 # Roadmap des séances — Stack React/Next.js moderne
 
-00 — Apprendre **React** et les **Hooks** (classes et fonctions)  
-01 — Démarrer un projet **Next.js 15**  
+- 00 — Apprendre **React** et les **Hooks** (classes et fonctions)  
+- 01 — Démarrer un projet **Next.js 15**  
 02 — Réaliser une API **in-memory**  
 03 — Finaliser les **CRUD** in-memory  
 04 — Poursuivre le projet : **pagination**, **tri**, fonctionnalités avancées  
