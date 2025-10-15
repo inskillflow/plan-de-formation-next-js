@@ -5,7 +5,6 @@
 02 — Réaliser une API **in-memory**  
 03 — Finaliser les **CRUD** in-memory  
 04 — Poursuivre le projet : **pagination**, **tri**, fonctionnalités avancées  
-
 05 — Ajouter la persistance avec **Prisma ORM** — **PostgreSQL** sous **Windows**  
 06 — Ajouter la persistance avec **Prisma ORM** — **PostgreSQL** sous **Linux** avec **Docker Compose**  
 07 — Ajouter la persistance avec **Prisma ORM** — **PostgreSQL Cloud (Neon)**  
