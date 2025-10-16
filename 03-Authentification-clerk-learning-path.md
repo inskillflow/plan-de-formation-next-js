@@ -6,7 +6,7 @@
 
 <br/>
 
-## 02 — Projet 2 avec style “cours” *(commencer ici)*
+## 02 — Projet 2 avec style “cours” *(commencer ici- TRÈS IMPORTANT)*
 
 * **Dépôt principal** : [next-01-evaluation-du-lab2-auth-clerk-1](https://github.com/hrhouma1/next-01-evaluation-du-lab2-auth-clerk-1)
 * **Documentation pas-à-pas** :
